@@ -77,4 +77,3 @@ export const Index = () => {
     </div>
   );
 };
-Foote
